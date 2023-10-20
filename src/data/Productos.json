@@ -1,0 +1,204 @@
+{
+    "Productos": [
+        {
+            "nombre": "ibuprofeno",
+            "descripcion": "ibuprofeno 600mg x 20 comprimidos",
+            "precio": "2099",
+            "categoria": "antiinflamatorio",
+            "stock": true,
+            "receta": false,
+            "retiro_compra": true,
+            "despacho": true
+        },
+        {
+            "nombre": "Flogocox",
+            "descripcion": "Flogocox 90mg x 14 comprimidos recubiertos",
+            "precio": 14999,
+            "categoria": "analgesico_antiinflamatorio",
+            "stock": true,
+            "receta": true,
+            "retiro_compra": true,
+            "despacho": false
+        },
+        {
+            "nombre": "topivitae",
+            "descripcion": "topiramato 100mg 28 comprimidos",
+            "precio": 26249,
+            "categoria": "anticonvulsivo",
+            "stock": true,
+            "receta": true,
+            "retiro_compra": false,
+            "despacho": true
+        },
+        {
+            "nombre": "emezol",
+            "descripcion": "esomeprazol 40mg 30 comprimidos",
+            "precio": 20624,
+            "categoria": "antiulceroso",
+            "stock": true,
+            "receta": true,
+            "retiro_compra": true,
+            "despacho": false
+        },
+        {
+            "nombre": "panadol",
+            "descripcion": "",
+            "precio": 3871,
+            "categoria": "analgesico_infantil",
+            "stock": true,
+            "receta": false,
+            "retiro_compra": true,
+            "despacho": false
+        },
+        {
+            "nombre": "hawaiian",
+            "descripcion": "island sport fps 50",
+            "precio": 6994,
+            "categoria": "proteccion_solar",
+            "stock": true,
+            "receta": false,
+            "retiro_compra": true,
+            "despacho": false
+        },
+        {
+            "nombre": "rexona",
+            "descripcion": "Desodorante en barra women powder",
+            "precio": 3799,
+            "categoria": "desodorante",
+            "stock": true,
+            "receta": false,
+            "retiro_compra": true,
+            "despacho": false
+        },
+        {
+            "nombre": "the barber",
+            "descripcion": "gel crema moldeadora para cabelo y barba 150g",
+            "precio": 6999,
+            "categoria": "cuidado_capilar",
+            "stock": false,
+            "receta": false,
+            "retiro_compra": true,
+            "despacho": true
+        },
+        {
+            "nombre": "holi dental",
+            "descripcion": "holi dental sabor menta oral-b 2 unidades",
+            "precio": 5099,
+            "categoria": "higiene_bucal",
+            "stock": false,
+            "receta": false,
+            "retiro_compra": true,
+            "despacho": false
+        },
+        {
+            "nombre": "gillette",
+            "descripcion": "gillette mach3 repuesto afeitar 4 unidades",
+            "precio": 12799,
+            "categoria": "higiene_personal",
+            "stock": true,
+            "receta": false,
+            "retiro_compra": true,
+            "despacho": true
+        },
+        {
+            "nombre": "nivea",
+            "descripcion": "crema corporal nivea soft milk piel seca 1000ml",
+            "precio": 7290,
+            "categoria": "hidratación",
+            "stock": true,
+            "receta": false,
+            "retiro_compra": true,
+            "despacho": true
+        },
+        {
+            "nombre": "fijador de maquillaje",
+            "descripcion": "petrizzio spray fijador de maquillaje",
+            "precio": 3990,
+            "categoria": "belleza",
+            "stock": false,
+            "receta": false,
+            "retiro_compra": true,
+            "despacho": false
+        },
+        {
+            "nombre": "brillo labial",
+            "descripcion": "Maybelline lip lifter gloss",
+            "precio": 6299,
+            "categoria": "belleza",
+            "stock": true,
+            "receta": false,
+            "retiro_compra": true,
+            "despacho": false
+        },
+        {
+            "nombre": "delineador de cejas",
+            "descripcion": " etienne delineador de cejas soft brown",
+            "precio": 4999,
+            "categoria": "belleza",
+            "stock": true,
+            "receta": false,
+            "retiro_compra": true,
+            "despacho": true
+        },
+        {
+            "nombre": "mascara de pestañas",
+            "descripcion": "vogue mascaras de pestallas curvas perfectas",
+            "precio": 5299,
+            "categoria": "belleza",
+            "stock": true,
+            "receta": false,
+            "retiro_compra": true,
+            "despacho": false
+        },
+        {
+            "nombre": "limpiador facial",
+            "descripcion": "la roche-posay limpiador facial gel purificante",
+            "precio": 21299,
+            "categoria": "limpieza",
+            "stock": true,
+            "receta": false,
+            "retiro_compra": true,
+            "despacho": true
+        },
+        {
+            "nombre": "sérum antimanchas",
+            "descripcion": "vichy sérum anti manchas liftactiv b3",
+            "precio": 34599,
+            "categoria": "sérum",
+            "stock": true,
+            "receta": false,
+            "retiro_compra": true,
+            "despacho": false
+        },
+        {
+            "nombre": "crema antiarrugas",
+            "descripcion": "eucerin crema facial antiarrugas",
+            "precio": 28990,
+            "categoria": "antiedad",
+            "stock": true,
+            "receta": false,
+            "retiro_compra": true,
+            "despacho": true
+        },
+        {
+            "nombre": "naay gel de aloe vera",
+            "descripcion": "gel de aloe vera con vitaminas 200ml",
+            "precio": 16999,
+            "categoria": "cicatrizante",
+            "stock": true,
+            "receta": false,
+            "retiro_compra": true,
+            "despacho": true
+        },
+        {
+            "nombre": "homme sensi baume",
+            "descripcion": "vichy bálsamo despues de afeitar",
+            "precio": 21399,
+            "categoria": "afeitado",
+            "stock": true,
+            "receta": false,
+            "retiro_compra": true,
+            "despacho": false
+        }
+    ]
+}
