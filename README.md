@@ -4,7 +4,7 @@ Este es un nuevo proyecto [**React Native**](https://reactnative.dev), arrancado
 
 >**Nota**: Asegúrese de haber completado las instrucciones [React Native - Configuración de ambiente](https://reactnative.dev/docs/environment-setup) hasta el paso "Crear una nueva aplicación", antes de continuar.
 
-## Paso 1: inicie el servidor Metro
+## Paso 1: Inicie el servidor Metro
 
 Primero, deberá iniciar **Metro**, el _paquete_ de JavaScript que se incluye _con_ React Native.
 
@@ -14,7 +14,7 @@ Para iniciar Metro, ejecute el siguiente comando desde la _raíz_ de su proyecto
 # utilizando npm
 npm start
 
-# o utilizando Yarn
+# O utilizando Yarn
 yarn start
 ```
 
@@ -28,53 +28,37 @@ npm install --legacy-peer-deps
 yarn install --legacy-peer-deps
 ```
 
-Luego repetir Paso 1
+Luego repetir Paso 1.
 
-## Step 2: Start your Application
+## Paso 2: Iniciar su aplicación
 
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
+Deje que Metro Bundler funcione en su _propia_ terminal. Abra una _nueva_ terminal desde la _raíz_ de su proyecto React Native. Ejecute el siguiente comando para iniciar su aplicación de _Android_ o _iOS_:
 
-### For Android
+### Para Android
 
 ```bash
-# using npm
+# utilizando npm
 npm run android
 
-# OR using Yarn
+# O utilizando Yarn
 yarn android
 ```
 
-### For iOS
+### Para iOS
 
 ```bash
-# using npm
+# utilizando npm
 npm run ios
 
-# OR using Yarn
+# O utilizando Yarn
 yarn ios
 ```
 
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
+Si todo está configurado _correctamente_, debería ver su nueva aplicación ejecutándose en su _Emulador Android_ o _Emulador iOS_ en breve, siempre que haya configurado su emulador/simulador correctamente.
 
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
+## Felicidades! :tada:
 
-## Step 3: Modifying your App
-
-Now that you have successfully run the app, let's modify it.
-
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
-
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
-
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
+Ha ejecutado con éxito este proyecto React Native. :partying_face:
 
 # Troubleshooting
 
