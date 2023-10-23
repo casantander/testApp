@@ -64,6 +64,9 @@ Ha ejecutado con éxito este proyecto React Native. :partying_face:
 
 Si no puede hacer que esto funcione, consulte la página de [Solución de problemas](https://reactnative.dev/docs/troubleshooting).
 
+
+https://postimg.cc/qgNKqBBC
+
 # Contenidos relacionados
 
 Para obtener más información sobre React Native, consulte los siguientes recursos:
