@@ -2,10 +2,8 @@
 import 'react-native-gesture-handler';
 import React from 'react'
 import { NavigationContainer } from '@react-navigation/native';
-import { StackNavigator } from './src/navigator/StackNavigator';
-import { MenuLateral } from './src/navigator/MenuLateral';
 import { MenuLateralExp } from './src/navigator/MenuLateralExp';
-import { AuthProvider } from './src/context/AuthContext';
+import { ProductProvider } from './src/context/ProductContext';
 
 export const App = () => {
   return (
@@ -20,9 +18,9 @@ export const App = () => {
 
 const AppState = ({ children }: any) => {
   return (
-    <AuthProvider>
+    <ProductProvider>
       {children}
-    </AuthProvider>
+    </ProductProvider>
   )
 
 }
