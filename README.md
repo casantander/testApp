@@ -60,13 +60,13 @@ Si todo está configurado _correctamente_, debería ver su nueva aplicación eje
 
 Ha ejecutado con éxito este proyecto React Native. :partying_face:
 
-# Troubleshooting
+# Solución de problemas
 
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
+Si no puede hacer que esto funcione, consulte la página de [Solución de problemas](https://reactnative.dev/docs/troubleshooting).
 
-# Learn More
+# Contenidos relacionados
 
-To learn more about React Native, take a look at the following resources:
+Para obtener más información sobre React Native, consulte los siguientes recursos:
 
 - [React Native Website](https://reactnative.dev) - learn more about React Native.
 - [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
