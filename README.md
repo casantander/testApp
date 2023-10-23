@@ -1,22 +1,34 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+Este es un nuevo proyecto [**React Native**](https://reactnative.dev), arrancado usando [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
-# Getting Started
+# Primeros pasos
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+>**Nota**: Asegúrese de haber completado las instrucciones [React Native - Configuración de ambiente](https://reactnative.dev/docs/environment-setup) hasta el paso "Crear una nueva aplicación", antes de continuar.
 
-## Step 1: Start the Metro Server
+## Paso 1: inicie el servidor Metro
 
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
+Primero, deberá iniciar **Metro**, el _paquete_ de JavaScript que se incluye _con_ React Native.
 
-To start Metro, run the following command from the _root_ of your React Native project:
+Para iniciar Metro, ejecute el siguiente comando desde la _raíz_ de su proyecto React Native:
 
 ```bash
-# using npm
+# utilizando npm
 npm start
 
-# OR using Yarn
+# o utilizando Yarn
 yarn start
 ```
+
+Si hay error de dependencias, utilizar el siguiente comando:
+
+```bash
+# utilizando npm
+npm install --legacy-peer-deps
+
+# o utilizando Yarn
+yarn install --legacy-peer-deps
+```
+
+Luego repetir Paso 1
 
 ## Step 2: Start your Application
 
