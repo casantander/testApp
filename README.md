@@ -64,7 +64,24 @@ Ha ejecutado con éxito este proyecto React Native. :partying_face:
 
 Si no puede hacer que esto funcione, consulte la página de [Solución de problemas](https://reactnative.dev/docs/troubleshooting).
 
+# Objetivo de la Aplicación
+
+Esta aplicación fue inspirada con el objetivo de generar una tienda para la Farmacia Salcobrand
+
 [![Inicio.png](https://i.postimg.cc/9FQtsC22/Inicio.png)](https://postimg.cc/jCB77VC3)
+
+## Diseño de la Aplicación
+
+Para explorar esta aplicación, debemos presionar el boton inferior de _Tienda_. Esto nos llevara a una pantalla con las siguientes funciones:
+
+- Lista de producto.
+- Buscador de productos.
+- Menú de Categorias.
+- Visualización del detalle de los productos.
+- Agregar productos al carrito desde la Vista de _Detalle_.
+- Carrito de Compra, donde se puede aumentar la cantidad de productos o eliminarlos del _Carrito_.
+
+
 [![Click-Tienda.png](https://i.postimg.cc/mZwydh0V/Click-Tienda.png)](https://postimg.cc/qgNKqBBC)
 [![Pantalla-Tienda.png](https://i.postimg.cc/Kvpr2wcM/Pantalla-Tienda.png)](https://postimg.cc/BXD15hKS)
 
