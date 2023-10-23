@@ -65,7 +65,7 @@ Ha ejecutado con éxito este proyecto React Native. :partying_face:
 Si no puede hacer que esto funcione, consulte la página de [Solución de problemas](https://reactnative.dev/docs/troubleshooting).
 
 
-!(https://i.postimg.cc/mZwydh0V/Click-Tienda.png)
+[![Click-Tienda.png](https://i.postimg.cc/mZwydh0V/Click-Tienda.png)](https://postimg.cc/qgNKqBBC)
 
 # Contenidos relacionados
 
